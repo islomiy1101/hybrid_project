@@ -8,3 +8,4 @@ def getNumber(number):
     return  f'count:{count},sum:{sum}'
 
 print(getNumber(int(input('Enter a number:'))))
+print(getNumber(int(input('Enter a number:'))))

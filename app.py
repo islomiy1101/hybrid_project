@@ -6,3 +6,4 @@ def getNumber(number):
     return  count
 
 print(getNumber(int(input('Enter a number:'))))
+print(getNumber(int(input('Enter a number:'))))
