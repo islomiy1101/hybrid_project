@@ -9,3 +9,10 @@ print(getNumber(int(input('Enter a number:'))))
 print('Dastur ishladi....')
 
 print('urraaaaa')
+
+
+
+def calc(a,b):
+    return a+b
+
+print(calc(5,7))
