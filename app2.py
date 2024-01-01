@@ -8,5 +8,4 @@ def getNumber(number):
     return  f'count:{count},sum:{sum}'
 
 print(getNumber(int(input('Enter a number:'))))
-print('Dastur ishladi....')
-print('last commit')
+print('my last changes in this file')
