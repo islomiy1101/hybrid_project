@@ -11,6 +11,8 @@ print('Dastur ishladi....')
 print('urraaaaa')
 
 print('I created new branch')
+print('I created new branch')
+print('I created new branch')
 
 def calc(a,b):
     return a+b
